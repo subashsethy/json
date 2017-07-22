@@ -11,7 +11,7 @@ namespace JSONDesralize
     {
         static void Main(string[] args)
         {
-            int workerThreads = 0, completionPortThreads = 0;
+            int work= 0, completionPortThreads = 0;
             ThreadPool.GetAvailableThreads(out workerThreads, out completionPortThreads);
             Console.WriteLine($"{0} and {1}",workerThreads, completionPortThreads);
             Console.ReadLine();
