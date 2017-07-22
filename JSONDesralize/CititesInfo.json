@@ -1,0 +1,17 @@
+﻿[
+  {
+    "cityId": 100,
+    "capital": "New Delhi",
+    "language": "Hindi"
+  },
+  {
+    "cityId": 101,
+    "capital": "DC",
+    "language": "English"
+  },
+  {
+    "cityId": 102,
+    "capital": "London",
+    "language": "English"
+  }
+]

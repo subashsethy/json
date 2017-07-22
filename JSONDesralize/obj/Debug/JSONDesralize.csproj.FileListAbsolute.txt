@@ -1,0 +1,11 @@
+c:\users\sanat\documents\visual studio 2017\Projects\JSONDesralize\JSONDesralize\bin\Debug\JSONDesralize.exe.config
+c:\users\sanat\documents\visual studio 2017\Projects\JSONDesralize\JSONDesralize\bin\Debug\JSONDesralize.exe
+c:\users\sanat\documents\visual studio 2017\Projects\JSONDesralize\JSONDesralize\bin\Debug\JSONDesralize.pdb
+c:\users\sanat\documents\visual studio 2017\Projects\JSONDesralize\JSONDesralize\bin\Debug\Newtonsoft.Json.dll
+c:\users\sanat\documents\visual studio 2017\Projects\JSONDesralize\JSONDesralize\bin\Debug\Newtonsoft.Json.xml
+c:\users\sanat\documents\visual studio 2017\Projects\JSONDesralize\JSONDesralize\obj\Debug\JSONDesralize.csprojResolveAssemblyReference.cache
+c:\users\sanat\documents\visual studio 2017\Projects\JSONDesralize\JSONDesralize\obj\Debug\JSONDesralize.exe
+c:\users\sanat\documents\visual studio 2017\Projects\JSONDesralize\JSONDesralize\obj\Debug\JSONDesralize.pdb
+C:\Users\Sanat\documents\visual studio 2017\Projects\JSONDesralize\JSONDesralize\bin\Debug\Content\CustomerData.csv
+C:\Users\Sanat\documents\visual studio 2017\Projects\JSONDesralize\JSONDesralize\bin\Debug\CsvHelper.dll
+C:\Users\Sanat\documents\visual studio 2017\Projects\JSONDesralize\JSONDesralize\bin\Debug\CsvHelper.xml
